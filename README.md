@@ -2,6 +2,8 @@
 
 Agatha is a powerful CLI tool that combines multiple AI models to provide comprehensive, well-reasoned answers through a 4-step consensus pipeline. By leveraging the unique strengths of different AI models, Agatha produces more robust and nuanced analyses than any single model could provide alone.
 
+![](a.jpg)
+
 ## ✨ Features
 
 - **Multi-Model Pipeline**: 4-step consensus process using different AI models for specialized tasks
